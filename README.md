@@ -1,16 +1,20 @@
-## Hi there 👋
+# 🚀 Welcome to My GitHub Portfolio  
 
-<!--
-**PercyNova/PercyNova** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👨‍💻 About Me  
+- Cybersecurity enthusiast | Network Security & Ethical Hacking 🔐  
+- Passionate about hands-on learning & penetration testing 🛠️  
+- Python developer | Building my AI assistant 🤖  
+- Data-driven mindset | Exploring cybersecurity datasets 📊  
+- Working on personal projects, including **Nova AI** and a cybersecurity lab 🏗️  
 
-Here are some ideas to get you started:
+## 🔧 Skills & Interests  
+- **Cybersecurity:** Network Security, Penetration Testing, Firewalls  
+- **Programming:** Python, AI/NLP, Data Analysis  
+- **Tech Stack:** Ubuntu, Kali Linux, Virtual Labs  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📂 Projects  
+- **Nova AI** – Personal AI assistant (Offline & Online capabilities)  
+- **Cybersecurity Lab** – Virtual environment for security testing  
+
+## 📫 Connect with Me  
+- [LinkedIn](https://www.linkedin.com/in/percy-mkhabela-443445240/) | [Website](https://percymkhabela.netlify.app/)  
